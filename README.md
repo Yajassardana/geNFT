@@ -5,7 +5,7 @@
 &nbsp;
 
 <p align="center">
-  <img src="public/logoimg.png" width="500" title="hover text">
+  <img src="public/logoimg.png" width="250" title="hover text">
 </p>
   
 ## Why this Product?
